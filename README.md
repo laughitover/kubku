@@ -1,7 +1,7 @@
 # kubku
 java
 ## com.laughitover.kubku.commonUtils
--1、根据分隔符分割字符串
+- 1、根据分隔符分割字符串  
 -2、数组转字符串
 -3、list转字符串
 4、对象转字符串
